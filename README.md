@@ -7,6 +7,6 @@ This is a Quiz Application built using Java, Spring Boot, MySQL, JPA, and REST A
 * REST APIs: Exposes endpoints for interacting with quizzes and their respective questions.
 * Database: MySQL database with JPA for persistent storage of quizzes and questions.
 ### Technologies Used
-Backend: Java, Spring Boot, Spring JPA
-Database: MySQL
-REST APIs: Spring Boot RESTful services
+* Backend: Java, Spring Boot, Spring JPA
+* Database: MySQL
+* REST APIs: Spring Boot RESTful services
